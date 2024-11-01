@@ -1,0 +1,18 @@
+{
+    "Content": {
+        "PageTitle": "Serena",
+        "TitleColor": "", 
+        
+        "BackgroundFileName": "favicon.png",
+        "BackgroundColor": "#000000", 
+
+        "ParagraphColor": "#ff0000",
+
+        "Paragraphs": [
+            "This is text, lorem ipsum stuff",
+            "This is more text lorem ipsum stuff pt2",
+            "Hi",
+            "More info"
+        ]
+    }
+}

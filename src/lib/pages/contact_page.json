@@ -1,0 +1,25 @@
+{
+    "Contact": {
+        "Name": "Serena",
+        "Username": "Anonymous Platypus",
+        "Title": "Head photographer",
+        "Email": "serena@serena.com",
+        "EmailColor": "",
+        "Phone": "(111) 111-1111",
+        "PhoneColor": "",
+        "LinkedIn": "LI",
+        "LinkedInColor": "",
+        "Twitter": "X",
+        "TwitterColor": "",
+        "Instagram": "IG",
+        "InstagramColor": "",
+        "YouTube": "https://www.youtube.com/channel/UC1SR4Dk14jC5rU3-zn6unuQ",
+        "YouTubeColor": "",
+        "Website": "/",
+        "WebsiteColor": "",
+        "LinkTree": "LT",
+        "LinkTreeColor": "",
+        "BackgroundColor": "#ff0000",
+        "TextColor": "#00ff00"
+    }
+}

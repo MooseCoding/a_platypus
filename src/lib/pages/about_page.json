@@ -1,0 +1,30 @@
+{
+    "About": {
+        "Intro": {
+            "Name": "Serena",
+            "Description": "Not amazing",
+            "SelfieName": "favicon.png",
+            "BackgroundColor": "#f9f9f9"
+        },
+        "Experience": {
+            "Jobs": [
+                {
+                    "Title": "Photographer",
+                    "Description": "Self-employed photographer",
+                    "Duration": "2020-2024",
+                    "Company": "Self employed",
+                    "BackgroundColor": "#ffffff",
+                    "TextColor": "#000000",
+                }
+            ]
+        },
+        "ExtraContent": {
+            "BackgroundColor": "",
+            "TextColor": "",
+            "Paragraphs": [
+                "Extra Content 2",
+                "Extra Content 1"
+            ]
+        }
+    }
+}

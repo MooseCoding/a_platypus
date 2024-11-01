@@ -1,0 +1,18 @@
+{
+    "NavBar": {
+        "NavBarBackgroundColor": "#27272a",
+
+        "NavBarName": "Serena",
+        "NavBarGradientFrom": "#0000ff",
+        "NavBarGradientVia": "#82abe2",
+        "NavBarGradientTo": "#ff69b4",
+
+        "NavBarTimer": "3s",
+
+        "NavBarAboutColor": "#ff33f3",
+        "NavBarAboutColorHover": "#6378e4",
+
+        "NavBarContactColor": "#6378e4",
+        "NavBarContactColorHover": "#ff33f3"
+    }
+}
